@@ -7,5 +7,5 @@ NodeJS + OpenCV4NodeJS + SocketIO
 2. Install node and dependencies
 3. Program runs on localhost:3000
 
-Check https://www.npmjs.com/package/opencv4nodejs for assitance with opencv library
-4. Live camera frame feed with adjustable framerate
+4a. Check https://www.npmjs.com/package/opencv4nodejs for assitance with opencv library
+4b. Live camera frame feed with adjustable framerate
