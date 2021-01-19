@@ -6,4 +6,6 @@ NodeJS + OpenCV4NodeJS + SocketIO
 1. Setup SD card with linux OS
 2. Install node and dependencies
 3. Program runs on localhost:3000
+
+Check https://www.npmjs.com/package/opencv4nodejs for assitance with opencv library
 4. Live camera frame feed with adjustable framerate
