@@ -8,3 +8,4 @@ NodeJS + OpenCV4NodeJS + SocketIO
 3. Program runs on localhost:3000
 4. Check https://www.npmjs.com/package/opencv4nodejs for assitance with opencv library
 5. Live camera frame feed with adjustable framerate
+6. Uses SocketIo library to send frames to img and display at a set framerate
